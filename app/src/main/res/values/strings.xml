@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Tarea 02</string>
+    <string name="texto_boton_administrador">administrador</string>
+    <string name="texto_boton_cliente">cliente</string>
+    <string name="etiqueta_login">Selecciona el modo de login</string>
+    <string name="etiqueta_modo_cliente">Login como cliente</string>
+    <string name="etiqueta_modo_admin">Login como administrador</string>
+    <string name="etiqueta_usuario">Usuario:</string>
+    <string name="etiqueta_contraseña">Contraseña:</string>
+    <string name="boton_login">Login</string>
+    <string name="mensaje_error_1">Usuario y/o contraseña inválidos</string>
+    <string name="mensaje_error_2">¡Ups!</string>
+    <string name="titulo_pantalla_inicio">Iniciar sesión</string>
+    <string name="titulo_pantalla_home_cliente">Home de cliente</string>
+    <string name="titulo_pantalla_home_administrador">Home de administrador</string>
+    <string name="titulo_pantalla_hacer_pedido">Tienda virtual</string>
+    <string name="titulo_pantalla_datos_envio">Datos del envío</string>
+    <string name="titulo_pantalla_pedidos_en_tramite">Ver pedidos en trámite</string>
+    <string name="titulo_pantalla_compras_realizadas">Ver compras realizadas</string>
+    <string name="nombre_admin">ÁngelaB CastroB LemaB</string>
+    <string name="nombre_cliente">ÁngelaA CastroA LemaA</string>
+    <string name="boton_salir">Salir</string>
+    <string name="boton_hacer_pedido">Hacer pedido</string>
+    <string name="boton_ver_pedidos_tramite">Ver pedidos en trámite</string>
+    <string name="boton_compras_realizadas">Ver compras realizadas</string>
+    <string name="etiqueta_tienda_virtual_1">Por favor, seleccione la categoría, el producto y la cantidad que desea comprar</string>
+    <string name="boton_siguiente_tienda_virtual">Siguiente</string>
+    <string name="etiqueta_tienda_virtual_2">Por favor, rellena los siguientes datos</string>
+    <string name="etiqueta_direccion">Dirección</string>
+    <string name="etiqueta_ciudad">Ciudad</string>
+    <string name="etiqueta_codigo_postal">Código Postal</string>
+    <string name="boton_finalizar_pedido">Finalizar</string>
+</resources>
